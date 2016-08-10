@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         myTask9.executeOnExecutor( executor , "" ) ;
         myTask10.executeOnExecutor( executor , "" ) ;
         myTask11.executeOnExecutor( executor , "" ) ;
-        myTask12.executeOnExecutor( executor , "" ) ;
+      //  myTask12.executeOnExecutor( executor , "" ) ;
 
         tv1.setOnClickListener(new View.OnClickListener() {
             @Override
